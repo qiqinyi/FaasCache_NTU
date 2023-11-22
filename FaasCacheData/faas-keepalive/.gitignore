@@ -1,0 +1,17 @@
+__pycache__/
+
+!py/actions/
+
+py/venv/
+py/cache/
+*.zip
+lookbusy-1.4/
+code/split/figs/
+*.pyc
+!reqs.txt
+*.err
+
+paper.aux
+paper.log
+paper.out
+venv/
